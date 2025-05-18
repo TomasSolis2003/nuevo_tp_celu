@@ -366,6 +366,7 @@
 "Assets/script/mover_objetos.cs"
 "Assets/script/movimiento.cs"
 "Assets/script/spawn_objetos.cs"
+"Assets/script/VehicleHealth.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
